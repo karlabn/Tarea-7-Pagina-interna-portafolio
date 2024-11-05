@@ -46,6 +46,7 @@ body {
 .header__h1 {
     text-align: center;
     margin: 16px;
+    color: var(--color-primario-claro);
 }
 
 .header__tags {
