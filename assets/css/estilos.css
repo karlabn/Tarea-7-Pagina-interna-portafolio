@@ -159,7 +159,7 @@ body {
 
 .sources__h3 {
     margin: 12px;
-    color:white
+    color:var(--color-primario-claro)
 }
 
 .sources__tags--span {
